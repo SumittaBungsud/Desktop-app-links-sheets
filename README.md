@@ -1,4 +1,4 @@
-# Web-app-links-sheets
+# Desktop-app-links-sheets
 learning skills for build up UI desktop application use Tkinter 
 
 ## Features
