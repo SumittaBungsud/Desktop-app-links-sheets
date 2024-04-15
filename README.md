@@ -1,9 +1,9 @@
 # Desktop-app-links-sheets
-learning skills for build up UI desktop application use Tkinter 
+learning skills for building a desktop application using Tkinter 
 
 ## Features
-- Upload files onto Google drive
-- User interface getting information 
-- Data retaining at spreadsheets
-- Link sheet sharing information
-- UI Decoration 
+- Uploads stored files onto Google drive
+- User interface getting forms
+- Maps data locations on spreadsheet as templates
+- Links each sheet sharing information
+- GUI Decoration 
